@@ -1,4 +1,5 @@
-let chai = require("chai");
+// let chai = require("chai");
+import  { chai }  from "chai";
 let chaiHttp = require('chai-http');
 var expect = require('chai').expect;
 let should = chai.should();
